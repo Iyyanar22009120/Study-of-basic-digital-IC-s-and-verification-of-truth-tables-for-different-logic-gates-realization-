@@ -60,8 +60,11 @@ Check all the gates following the same procedure.
 Program:
 /*
 Program to verify the truth table in quartus for the basic logic gates using Verilog programming.
+```
 Developed by: S.Iyyanar
 RegisterNumber:  212222240036
+```
+
 ```
 
 module expa(a,b,y1,y2,y3,y4,y5,y6,y7);
@@ -81,6 +84,7 @@ Logic symbol & Truthtable:
 ![digital image 1](https://user-images.githubusercontent.com/118680259/232226261-e58aef43-aee2-4918-9dac-6ccc5405dab5.png)
 ![digital image2](https://user-images.githubusercontent.com/118680259/232226284-5a5b73f4-0c8e-4cf2-9135-e7b7efd86be2.jpg)
 Output:
+RTL REALISATION:
 ![Screenshot (31)](https://user-images.githubusercontent.com/118680259/232226326-d080c305-4678-499c-88ef-15f1bf40d428.png)
 
 
